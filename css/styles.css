@@ -141,6 +141,11 @@ body {
   color: var(--dark-color);
 }
 
+.team-list-position {
+  font-size: 16px;
+  line-height: 1.188;
+}
+
 /* filter */
 .btn-filter {
   font-weight: 500;
