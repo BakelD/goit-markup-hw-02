@@ -125,6 +125,7 @@ body {
 
 /* advantages */
 .advantages-list-title {
+  font-size: 14px;
   line-height: 1.143;
   text-transform: uppercase;
   color: var(--dark-color);
